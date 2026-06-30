@@ -1,5 +1,5 @@
-Director of Product, building scalable KYC, onboarding, and fraud systems
-Led address verification and digital compliance flows serving millions
+Director of Product, building scalable KYC, onboarding, and fraud systems.
+Led address verification and digital compliance flows serving millions.
 Open to AI, fintech infra, and product engineering collaborations
 
 <!---
