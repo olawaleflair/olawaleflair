@@ -14,26 +14,6 @@ My experience spans product strategy, technical platforms, regulatory compliance
 
 Before product management, I spent about four years in software engineering. That foundation still shapes how I think about systems, technical tradeoffs and execution.
 
-## What I build
-
-**PlugGo**
-
-A payment prototype exploring a simple question: what if making a payment started with saying what you wanted to do? It turns natural language into payment details for review and confirmation. All payments are simulated.
-
-[Explore PlugGo](https://github.com/olawaleflair/pluggo)
-
-**Church Timer Pro**
-
-A desktop application for church media teams to plan and run services, manage live timing, display a stage timer and review planned versus actual durations. Core functionality works without an internet connection.
-
-**Jobnalo**
-
-A product in development for Nigerian printing businesses, focused on managing jobs, quotes, payments, inventory and daily operations.
-
-**Flair Underwear**
-
-My consumer brand, where I work directly on product quality, positioning, customer acquisition and sales. Running Flair keeps me close to the realities of building something people choose to pay for.
-
 ## What interests me
 
 * Fintech infrastructure, identity and digital trust.
@@ -42,12 +22,6 @@ My consumer brand, where I work directly on product quality, positioning, custom
 * Turning customer insight into products people actually use.
 
 I use AI coding tools to prototype and build, while staying involved in product decisions, architecture, testing and acceptance. I care about understanding what ships and whether it solves the problem.
-
-## Beyond building
-
-I mentor product managers and share practical lessons on product leadership through my series, "How Senior PMs Operate."
-
-In 2023, I was recognised among the top 1% of ADPList mentors, supporting 130 mentees across 10 countries.
 
 ## Let's connect
 
