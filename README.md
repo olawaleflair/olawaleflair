@@ -1,10 +1,6 @@
 # Hi, I'm Olawale Omotoso
 
-Product leader. Builder. Entrepreneur.
-
-I bring together product leadership, software engineering experience and the practical perspective of running a business. I enjoy turning complex problems into useful products, from identity verification in banking to software that makes everyday work easier.
-
-Based in Lagos, Nigeria. Building with an African context and a global outlook.
+Product leader. Builder. Entrepreneur. I bring together product leadership, software engineering experience and the practical perspective of running a business. I enjoy turning complex problems into useful products, from identity verification in banking to software that makes everyday work easier. Based in Lagos, Nigeria. Building with an African context and a global outlook.
 
 ## My background
 
