@@ -8,7 +8,7 @@ Based in Lagos, Nigeria. Building with an African context and a global outlook.
 
 ## My background
 
-Most recently, I was Director of Product at Moniepoint, focused on identity services, KYC and address verification. Previously, I worked on core engineering platforms at Kuda and digital banking products at Polaris Bank.
+I am a Director of Product at Moniepoint, focused on identity services, KYC and address verification. Previously, I worked on core engineering platforms at Kuda and digital banking products at Polaris Bank.
 
 My experience spans product strategy, technical platforms, regulatory compliance, fraud prevention and operational improvement. I have led product managers and worked closely with engineering, design and operations teams to turn difficult problems into measurable improvements.
 
